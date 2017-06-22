@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+}
+nav {
+	color: green;
+	font-family: arial;
+	font-size: 160%;
+}
+h2 {
+	color: midnightblue;
+	font-family: courier;
+	font-size: 300%;
+}
+h3 {
+	color: midnightblue;
+	font-family: courier;
+	font-size: 300%;
+}
+h4 {
+	color: midnightblue;
+	font-family: courier;
+	font-size: 300%;
+}
+h5 {
+	color: midnightblue;
+	font-family: courier;
+	font-size: 300%;
+}
